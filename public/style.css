@@ -2,3 +2,38 @@
     margin: 0;
     padding: 0;
 }
+.hero, .hero .widget h1, .hero .widget h2, .hero .widget h3, .hero .widget h4, .hero .widget h5, .hero .widget h6, .hero .widget p, .hero .widget blockquote, .hero .widget cite, .hero .widget table, .hero .widget ul, .hero .widget ol, .hero .widget li, .hero .widget dd, .hero .widget dt, .hero .widget address, .hero .widget code, .hero .widget pre, .hero .widget .widget-title, .hero .page-header h1 {
+    color: #ffffff;
+  }
+.hero {
+	padding: 3rem 0;
+}
+.hero {
+	max-width: 1100px;
+	margin-left: auto;
+	margin-right: auto;
+	color: white;
+	padding: 2rem 0;
+	clear: both;
+}
+*, ::before, ::after {
+    -webkit-box-sizing: inherit;
+    -moz-box-sizing: inherit;
+    box-sizing: inherit;
+  }
+  body, p, ol li, ul li, dl dd, .fl-callout-text {
+    font-family: "Roboto", sans-serif;
+  }
+  body, button, input, select, textarea, .select2-container .select2-choice {
+    color: #222222;
+    font-family: "Roboto", "Helvetica Neue", sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+    font-size: 1rem;
+    line-height: 1.8;
+  }
+  body {
+    -moz-osx-font-smoothing: grayscale;
+    word-wrap: break-word;
+  }
+  
