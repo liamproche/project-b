@@ -5,7 +5,7 @@
     margin: 0;
 }
 body{
-    font-family: 'Fredoka', sans-serif;
+    font-family: 'Young Serif', serif;
     font-size: 18px;
     background-repeat: no-repeat;
     background: black;
@@ -41,8 +41,10 @@ main{
 /* BACKGROUND */
 
 main{
-    background: url(images/test.jpg);
+    background: url(images/zion-2.jpg);
     background-size: cover;
+    height: 100vh;
+
 }
 
 .scrim{
@@ -119,7 +121,7 @@ a{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    background: rgba(0, 0, 0, .97);
+    background: rgba(0, 0, 0, .72);
 }
 
 
