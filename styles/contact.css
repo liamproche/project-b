@@ -41,11 +41,10 @@ main{
 /* BACKGROUND */
 
 main{
-    background: url(images/brit_2.jpg);
+    background: url(images/patron.png);
     background-size: cover;
-    height: 100vh;
+    height: 75vh;
     color: white;
-
 }
 
 .scrim{
@@ -240,9 +239,7 @@ a{
     height: 25px;
     border: 1px solid white;
 }
-.link-container{
-    border: 2px solid red;
-}
+
 #rosie-project-title{
     font-size: 1.7rem;
 }
