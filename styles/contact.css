@@ -227,6 +227,10 @@ a{
     justify-content: space-around;
     width: 75%;
 }
+/* .link-container{
+    margin: 2px solid blue;
+    margin-left: 120px;
+} */
 .direct-link-container{
     display: flex;
     justify-content: center;
@@ -235,6 +239,9 @@ a{
 .direct-link{
     height: 25px;
     border: 1px solid white;
+}
+.link-container{
+    border: 2px solid red;
 }
 #rosie-project-title{
     font-size: 1.7rem;
