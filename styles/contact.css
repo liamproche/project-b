@@ -302,6 +302,14 @@ small .link-image{
 }
 /* END SLIDE PANELS */
 
+
+@media only screen and (max-width: 490px) { 
+    main{
+        background-image: url(images/patron-mobile.png);
+    }
+}
+
+
 @media only screen and (min-width: 490px) {  
     /* NAV */  
     .side-nav{
@@ -338,6 +346,7 @@ small .link-image{
     header{
         position: relative;
     }
+
 }
 
 @media only screen and (min-width: 839px) { 
