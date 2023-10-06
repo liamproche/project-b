@@ -167,6 +167,8 @@ a{
 #send-button{
     margin-left: -33vw;
     margin-top: 3%;
+    background-color: black;
+    border: 2px solid black;
 }
 
 /* END MAIN FLEXBOX */
