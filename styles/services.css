@@ -245,8 +245,17 @@ textarea{
     display: none;
 }
 
+@media only screen and (max-width: 480px) {
+
+    main{
+        background: url(images/reading-mobile.png);
+    }
+
+}
+
+
 @media only screen and (min-width: 480px) {
-        
+
         /* NAV */
         
         .side-nav{
