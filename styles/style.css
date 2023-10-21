@@ -70,7 +70,7 @@ nav{
 }
 li{
     list-style: none;
-    margin-top: 30%;
+    margin-top: 20%;
 }
 a{
     display: block;
@@ -168,7 +168,7 @@ nav{
     /* END SIDENAV MEDIA QUERIES */
 }
 
-@media only screen and (max-width: 409px){
+@media only screen and (max-width: 480px){
     h1{
         font-size: 3.5rem;
     }
